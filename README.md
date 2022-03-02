@@ -8,9 +8,7 @@
 
 2.2、主题有theme.css发起，有其他功能就要用theme.css调用。
 
-2.3、pc端实现没问题。
-
-2.4若引用，theme.css需要改路径：@import url(/widgets/theme/custom.css);
+2.3、若引用，theme.css需要改路径：@import url(/widgets/theme/custom.css);
 
 # 特别说明：
 1、此创意来源于：https://ld246.com/member/shuoying
