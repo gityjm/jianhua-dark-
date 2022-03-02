@@ -17,6 +17,6 @@
 
 3、原作者有自己定义的主题，欢迎使用，dark+
 
-4、给作者建议，作者有自己的考虑。https://ld246.com/member/yjmsiyuan/comments
+4、给作者建议，没见作者做，因此决定自己写。https://ld246.com/member/yjmsiyuan/comments
 
 若原作者写，我就删除
